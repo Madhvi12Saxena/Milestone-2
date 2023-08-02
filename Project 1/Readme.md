@@ -36,22 +36,11 @@ Submit a pull request to the original repository.
 Built With
 
 HTML
+
 CSS
+
 JavaScript
-
-Credits
-
-OpenAI for providing the GPT-3.5 language model used to generate this README.
 
 License
 
 This project is licensed under the MIT License.
-
-Acknowledgments
-
-Mention any additional acknowledgments or credits for external libraries, resources, or tutorials that you used in the development of this project.
-
-
-
-
-
