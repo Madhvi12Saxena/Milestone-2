@@ -57,14 +57,14 @@ nav .logo {
     font-size: 25px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(to right, #ff0000, #0000ffce, #ffa600ec);
+    background: linear-gradient(to right, black, black, black);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
 }
 
 nav .logo span {
-    background: linear-gradient(to right, #ff0000ec, #4141c2d5, #ff7300);
+    background: linear-gradient(to right, black, black, black);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
